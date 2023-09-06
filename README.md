@@ -2,7 +2,7 @@
 
 ### Education
 
-#### Universidad de Buenos AiresUniversidad de Buenos Aires
+#### Universidad de Buenos Aires
 
 Licenciado en ciencias matemáticas (Equivalent to M.Sc. in Mathematics), Math Science 2018
 Grade: 9.69
