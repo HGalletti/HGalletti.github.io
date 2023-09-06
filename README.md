@@ -2,9 +2,9 @@
 
 ### Education
 
-#### Universidad de Buenos Aires
+#### University of Buenos Aires
 
-Licenciado en ciencias matemáticas (Equivalent to M.Sc. in Mathematics), Math Science 2018
+Licenciado en ciencias matemáticas (Equivalent to M.Sc. in Mathematics), Math Science February 2018
 Grade: 9.69
 
 ### Experience
