@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: Hernán Galletti
 theme: jekyll-theme-minimal
+logo: /files/imgs/profile.jpeg
