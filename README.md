@@ -1,5 +1,7 @@
 # Data Scientist
 
+#### Technical Skills: Python, R, SQL, MATLAB
+
 ### Education
 
 #### University of Buenos Aires
@@ -11,17 +13,36 @@ Grade: 9.69
 
 #### Coderhouse 
 
-Data Science Tutor
+**Data Science Tutor @ Coderhouse (Aug 2023 - Present)**
 
-Aug 2023 - Present · 2 mos
+- Correction of data science projects.
+- teaching classes via zoom.
+- Answer questions from students outside and inside the class.
 
-#### TIBEST Insurance Advisors
-Data Analytics and Data Science Consultant
+**Data Analytics and Data Science Consultant @ TIBEST Insurance Advisors (Feb 2023 - Present)**
 
-Main tasks: 
-Data acquisition, ETL processes and automation. Design and presentation of data dashboards. Consulting and decision-making based on data. Customer segmentation and implementation in marketing campaigns.
+- Data acquisition
+- ETL processes and automation.
+- Design and presentation of data dashboards.
+- Consulting and decision-making based on data.
+- Customer segmentation and implementation in marketing campaigns.
 
-#### CONICET 
+**Doctoral researcher @ CONICET (Mar 2020 - Jan 2023)**
 
-Doctoral researcher
+- Study and research in applications of mathematics and data science.
+
+**Head of Graduate Teaching Assistant @ University of Buenos Aires, Mathematics Department, Faculty of Exact and Natural Sciences. (Mar 2020 - Jul 2022)**
+
+- Responsible for the practical lessons of course.
+- Preparation and correction of exams.
+- Coordination of topics with theoretical and other practical courses.
+- Create or modify exercise guides.
+- Preparation of lectures and computer labs (mainly Python and R).
+
+**Graduate Teaching Assistant @ University of Buenos Aires, Mathematics Department, Faculty of Exact and Natural Sciences. (Apr 2018 - Feb 2020)**
+
+- Preparation of lectures and computer labs (mainly Python and R).
+- Preparation and correction of exams.
+
+
 
