@@ -44,5 +44,6 @@ Grade: 9.69
 - Preparation of lectures and computer labs (mainly Python and R).
 - Preparation and correction of exams.
 
+## Projects
 
-
+### Soon...
