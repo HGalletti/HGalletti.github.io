@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, R, SQL, MATLAB
+#### Technical Skills: Python + machine learning libraris (Pandas, Scikit-learn, Tensor Flow, etc.), R, SQL, MATLAB
 
 ### Education
 
@@ -26,6 +26,10 @@ Grade: 9.69
 - Design and presentation of data dashboards.
 - Consulting and decision-making based on data.
 - Customer segmentation and implementation in marketing campaigns.
+
+- **Data Scientist @ Analytics Data (Jan 2022 - Feb 2023)**
+
+- I worked on various advanced analytics and data science projects for companies.
 
 **Doctoral researcher @ CONICET (Mar 2020 - Jan 2023)**
 
