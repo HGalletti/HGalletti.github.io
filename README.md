@@ -51,9 +51,9 @@ Grade: 9.69
 ## Projects
 
 ### SBA guaranted loans
-[PDF:]([https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/Pr%C3%A9stamos%20garantizados%20por%20la%20SBA.pdf])
+[PDF]([https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/Pr%C3%A9stamos%20garantizados%20por%20la%20SBA.pdf])
 
-![SBA loans](/files/img/SBA_loans.jpg)
+![SBA loans](/files/imgs/SBA_loans.jpg)      
 
 #### Project Introduction
 
