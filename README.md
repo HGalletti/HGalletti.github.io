@@ -81,7 +81,7 @@ Our objective is to develop a machine learning model that predicts whether a com
 
 ### [Breast Cancer Detection](https://github.com/HGalletti/CancerDetection/)
 
-![SBA loans](/files/imgs/Breast_cancer_detection.jpg)
+![Breast cancer detection](/files/imgs/Breast_cancer_detection.jpg)
 
 #### Project Introduction
 
