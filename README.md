@@ -76,3 +76,30 @@ The primary business challenge is to determine if a loan can be granted with rea
 #### Analytical Approach
 
 Our objective is to develop a machine learning model that predicts whether a company may face difficulties in loan repayment, simplistically referred to as a "defaulted loan." This data science project involves a detailed exploratory data analysis (EDA) and is developed using technical tools like Python, Pandas, Scikit-learn, and more.
+
+![Link](https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/loans.ipynb)
+
+### [Breast Cancer Detection][(https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/Pr%C3%A9stamos%20garantizados%20por%20la%20SBA.pdf](https://github.com/HGalletti/CancerDetection/))
+
+![SBA loans](/files/imgs/Breast_cancer_detection.jpg)
+
+#### Project Introduction
+
+Breast cancer is a global health concern affecting millions of individuals every year. It's the second most common cancer in the world and poses a significant threat to women's health. Early detection plays a crucial role in improving survival rates and treatment outcomes.
+
+#### Project Objective
+
+The primary objective of this data science project is to develop a machine learning model that can accurately detect breast cancer based on parameters extracted from digitized images of breast masses. By analyzing these images, we aim to predict whether a mass is malignant or benign.
+
+#### Key Business Questions
+
+- What are the defining characteristics of tumors that best predict malignancy?
+- How can machine learning assist medical professionals in making more accurate and timely diagnoses?
+- What are the potential benefits and limitations of using automated image analysis in cancer detection?
+- How can this technology contribute to early detection and improved treatment outcomes for breast cancer patients?
+
+#### Analytical Approach
+
+Our approach involves utilizing a diverse set of machine learning models, including logistic regression, decision trees, XGBoost, k-Nearest Neighbor, support vector machines, and a neural network. These models analyze features extracted from digitized images of breast masses. We employ Python, Pandas, Scikit-learn, TensorFlow, and other tools for data analysis, feature engineering, and model evaluation.
+
+![Link]([https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/loans.ipynb](https://github.com/HGalletti/CancerDetection/blob/main/Cancer%20detection.ipynb)https://github.com/HGalletti/CancerDetection/blob/main/Cancer%20detection.ipynb)
