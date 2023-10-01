@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python + machine learning libraris (Pandas, Scikit-learn, Tensor Flow, etc.), R, SQL, MATLAB
+#### Technical Skills: Python + machine learning libraries (Pandas, Scikit-learn, Tensor Flow, etc.), R, SQL, MATLAB
 
 ### Education
 
