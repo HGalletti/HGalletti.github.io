@@ -27,7 +27,7 @@ Grade: 9.69
 - Consulting and decision-making based on data.
 - Customer segmentation and implementation in marketing campaigns.
 
-- **Data Scientist @ Analytics Data (Jan 2022 - Feb 2023)**
+**Data Scientist @ Analytics Data (Jan 2022 - Feb 2023)**
 
 - I worked on various advanced analytics and data science projects for companies.
 
