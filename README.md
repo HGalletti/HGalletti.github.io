@@ -79,7 +79,7 @@ Our objective is to develop a machine learning model that predicts whether a com
 
 ![Link](https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/loans.ipynb)
 
-### [Breast Cancer Detection][(https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/Pr%C3%A9stamos%20garantizados%20por%20la%20SBA.pdf](https://github.com/HGalletti/CancerDetection/))
+### [Breast Cancer Detection](https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/Pr%C3%A9stamos%20garantizados%20por%20la%20SBA.pdf](https://github.com/HGalletti/CancerDetection/)
 
 ![SBA loans](/files/imgs/Breast_cancer_detection.jpg)
 
