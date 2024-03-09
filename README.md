@@ -4,6 +4,10 @@
 
 ### Education
 
+#### Austral University (In progress)
+
+Master in Data Science, expected date of completion December 2025.
+
 #### University of Buenos Aires
 
 Licenciado en ciencias matemáticas (Equivalent to M.Sc. in Mathematics), Math Science February 2018
@@ -11,7 +15,11 @@ Grade: 9.69
 
 ### Experience
 
-#### Coderhouse 
+**Data Analyst Ssr @ Puente Hermanos (Nov 2023 - Present)**
+
+- Database management, ETL processes. (SQL Server, Python).
+- Creation and editing of data visualization dashboards. Data Analysis. (Power BI, Python + Pandas + Visualization Libraries).
+
 
 **Data Science Tutor @ Coderhouse (Aug 2023 - Present)**
 
@@ -19,17 +27,19 @@ Grade: 9.69
 - teaching classes via zoom.
 - Answer questions from students outside and inside the class.
 
-**Data Analytics and Data Science Consultant @ TIBEST Insurance Advisors (Feb 2023 - Present)**
+**Data Science Tutor @ Coderhouse (Aug 2023 - Present)**
+
+- Correction of data science projects.
+- teaching classes via zoom.
+- Answer questions from students outside and inside the class.
+
+**Data Analytics and Data Science Consultant @ TIBEST Insurance Advisors (Feb 2023 - Sept 2023)**
 
 - Data acquisition
 - ETL processes and automation.
 - Design and presentation of data dashboards.
 - Consulting and decision-making based on data.
 - Customer segmentation and implementation in marketing campaigns.
-
-**Data Scientist @ Analytics Data (Jan 2022 - Feb 2023)**
-
-- I worked on various advanced analytics and data science projects for companies.
 
 **Doctoral researcher @ CONICET (Mar 2020 - Jan 2023)**
 
