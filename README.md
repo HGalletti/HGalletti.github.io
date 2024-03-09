@@ -20,13 +20,6 @@ Grade: 9.69
 - Database management, ETL processes. (SQL Server, Python).
 - Creation and editing of data visualization dashboards. Data Analysis. (Power BI, Python + Pandas + Visualization Libraries).
 
-
-**Data Science Tutor @ Coderhouse (Aug 2023 - Present)**
-
-- Correction of data science projects.
-- teaching classes via zoom.
-- Answer questions from students outside and inside the class.
-
 **Data Science Tutor @ Coderhouse (Aug 2023 - Present)**
 
 - Correction of data science projects.
