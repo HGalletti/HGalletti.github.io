@@ -53,7 +53,7 @@ Grade: 9.69
 
 ### [SBA guaranted loans](https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/Pr%C3%A9stamos%20garantizados%20por%20la%20SBA.pdf)
 
-0#### Project Introduction
+#### Project Introduction
 
 In the realm of small business financing in the United States, the mission of the U.S. Small Business Administration (SBA) has been pivotal since its establishment in 1953. By promoting and supporting small enterprises within the U.S. credit market, the SBA has played a crucial role in fostering job creation and reducing unemployment.
 
