@@ -15,7 +15,18 @@ Grade: 9.69
 
 ### Experience
 
-**Data Analyst Ssr @ Puente Hermanos (Nov 2023 - Present)**
+
+**Analyst Ssr @ Provincia Microcréditos (Apr 2024 - Present)**
+
+- Develop and optimize models to improve credit offering processes to customers, ensuring their accuracy and effectiveness.
+- Design and evaluate commercial campaigns and customer behavior through statistical analysis.
+- Provide support to other areas of the company.
+
+**Independent Consultant (Nov 2023 - Present)**
+
+- I work on independent data science projects, including developing time series control systems, churn models, and candidate assessment models for hiring.I 
+
+**Data Analyst Ssr @ Puente Hermanos (Nov 2023 - Apr 2024)**
 
 - Database management, ETL processes. (SQL Server, Python).
 - Creation and editing of data visualization dashboards. Data Analysis. (Power BI, Python + Pandas + Visualization Libraries).
