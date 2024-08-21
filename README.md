@@ -49,19 +49,6 @@ Grade: 9.69
 
 - Study and research in applications of mathematics and data science.
 
-**Head of Graduate Teaching Assistant @ University of Buenos Aires, Mathematics Department, Faculty of Exact and Natural Sciences. (Mar 2020 - Jul 2022)**
-
-- Responsible for the practical lessons of course.
-- Preparation and correction of exams.
-- Coordination of topics with theoretical and other practical courses.
-- Create or modify exercise guides.
-- Preparation of lectures and computer labs (mainly Python and R).
-
-**Graduate Teaching Assistant @ University of Buenos Aires, Mathematics Department, Faculty of Exact and Natural Sciences. (Apr 2018 - Feb 2020)**
-
-- Preparation of lectures and computer labs (mainly Python and R).
-- Preparation and correction of exams.
-
 ## Projects
 
 ### [SBA guaranted loans](https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/Pr%C3%A9stamos%20garantizados%20por%20la%20SBA.pdf)
