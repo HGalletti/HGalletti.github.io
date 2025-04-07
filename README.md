@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python + machine learning libraries (Pandas, Scikit-learn, Tensor Flow, etc.), R, SQL, MATLAB
+#### Technical Skills: Python + machine learning libraries (Pandas, Scikit-learn, Tensor Flow, Darts, etc.), R, SQL, MATLAB
 
 ### Education
 
@@ -15,14 +15,19 @@ Grade: 9.69
 
 ### Experience
 
+**Data Scientist @ ITR (Oct 2024 - Presnt)**
 
-**Analyst Ssr @ Provincia Microcréditos (Apr 2024 - Present)**
+- Development and training of machine learning and deep learning models, including time series predictive modeling and classification problems.
+- Integration of LLMs into NLP applications, such as chatbots and virtual assistants.
+- Exploratory data analysis (EDA) and visualization for pattern identification and decision-making.
 
-- Develop and optimize models to improve credit offering processes to customers, ensuring their accuracy and effectiveness.
+**Analyst Ssr @ Provincia Microcréditos (Apr 2024 - Oct 2024)**
+
+- Develop and optimize models and processes to improve credit offerings to customers.
 - Design and evaluate commercial campaigns and customer behavior through statistical analysis.
 - Provide support to other areas of the company.
 
-**Independent Consultant (Nov 2023 - Present)**
+**Independent Consultant (Nov 2023 - Sept 2024)**
 
 - I work on independent data science projects, including developing time series control systems, churn models, and candidate assessment models for hiring.I 
 
@@ -49,7 +54,11 @@ Grade: 9.69
 
 - Study and research in applications of mathematics and data science.
 
-## Projects
+## Personal Projects (Kaggle-based, 2022-2023)
+
+Currently updating this section with recent real-world projects.
+
+These projects were developed as part of exploratory work and training, based on publicly available datasets from Kaggle. They involved full machine learning pipelines—from data exploration to model evaluation—and served as a foundation for further professional work in data science and machine learning.
 
 ### [SBA guaranted loans](https://github.com/HGalletti/SBA-Guaranteed-Loans/blob/main/Pr%C3%A9stamos%20garantizados%20por%20la%20SBA.pdf)
 
