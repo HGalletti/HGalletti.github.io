@@ -15,7 +15,7 @@ Grade: 9.69
 
 ### Experience
 
-**Data Scientist @ ITR (Oct 2024 - Presnt)**
+**Data Scientist @ ITR (Oct 2024 - Present)**
 
 - Development and training of machine learning and deep learning models, including time series predictive modeling and classification problems.
 - Integration of LLMs into NLP applications, such as chatbots and virtual assistants.
