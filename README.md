@@ -54,9 +54,16 @@ Grade: 9.69
 
 - Study and research in applications of mathematics and data science.
 
-## Personal Projects (Kaggle-based, 2022-2023)
+## Projects
 
-Currently updating this section with recent real-world projects.
+### Smart Electoral Assistant
+
+Smart Electoral Assistant: https://github.com/HGalletti/Asistente_electoral - ElectoAI is an AI-powered app using Retrieval-Augmented Generation (RAG) to answer legal and operational questions about the 2025 Buenos Aires (CABA) elections.
+Some older personal projects (2022–2023)
+
+I'm currently working on adding more recent and real-world projects.
+
+## Some personal and older projects (Kaggle-based, 2022-2023)
 
 These projects were developed as part of exploratory work and training, based on publicly available datasets from Kaggle. They involved full machine learning pipelines—from data exploration to model evaluation—and served as a foundation for further professional work in data science and machine learning.
 
