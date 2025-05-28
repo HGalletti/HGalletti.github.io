@@ -56,12 +56,28 @@ Grade: 9.69
 
 ## Projects
 
-### Smart Electoral Assistant
+### [Electoral Assistant](https://github.com/HGalletti/Asistente_electoral)
 
-Smart Electoral Assistant: https://github.com/HGalletti/Asistente_electoral - ElectoAI is an AI-powered app using Retrieval-Augmented Generation (RAG) to answer legal and operational questions about the 2025 Buenos Aires (CABA) elections.
-Some older personal projects (2022–2023)
+#### Project Objective
 
-I'm currently working on adding more recent and real-world projects.
+This project aims to develop a question-answering assistant that provides accurate and neutral responses about the 2025 legislative elections in Buenos Aires City (CABA), based on official documents and regulations.
+
+#### Key Business Questions
+
+- How can we ensure that electoral information is accessible, accurate, and up-to-date for citizens?
+- What are the most common questions regarding voting procedures, registration, and polling logistics?
+- How can generative AI and retrieval-based techniques be combined to deliver grounded, verifiable answers?
+- What are the challenges of interpreting and summarizing legal electoral texts for general audiences?
+
+#### Analytical Approach
+
+The assistant uses a Retrieval-Augmented Generation (RAG) pipeline combining LangChain, OpenAI's language models, and a Chroma vector database. Official electoral documents are processed into text chunks and embedded into a vector store, enabling the assistant to retrieve relevant context when answering user queries. The system is optimized for clarity, neutrality, and traceability of responses, with a focus on document-based grounding and prompt engineering.
+
+[Link](https://github.com/HGalletti/Asistente_electoral/blob/main/app.py)
+
+---
+
+*I'm currently working on new real-world data science projects and will be adding them here soon.*
 
 ## Some personal and older projects (Kaggle-based, 2022-2023)
 
