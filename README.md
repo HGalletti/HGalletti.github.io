@@ -17,37 +17,35 @@ Grade: 9.69
 
 **Data Scientist @ ITR (Oct 2024 - Present)**
 
-- Development and training of machine learning and deep learning models, including time series predictive modeling and classification problems.
-- Integration of LLMs into NLP applications, such as chatbots and virtual assistants.
+- Development of machine learning and deep learning models, including time series predictive modeling and classification problems.
+- Development of NLP applications using LLMs (chatbots, virtual assistants, multi-agent systems), including exploration of use cases and prototyping with RAG pipelines.
 - Exploratory data analysis (EDA) and visualization for pattern identification and decision-making.
 
 **Analyst Ssr @ Provincia Microcréditos (Apr 2024 - Oct 2024)**
 
-- Develop and optimize models and processes to improve credit offerings to customers.
-- Design and evaluate commercial campaigns and customer behavior through statistical analysis.
-- Provide support to other areas of the company.
+- Process automation for granting micro-credit offers, integrating behavioral data and scores.
+- Development and tuning of segmentation and prediction models to personalize offers and mitigate credit risk.
+- Performance evaluation of campaigns and post-credit behavior, providing recommendations to optimize approval rates.
 
 **Independent Consultant (Nov 2023 - Sept 2024)**
 
-- I work on independent data science projects, including developing time series control systems, churn models, and candidate assessment models for hiring.I 
+- Development of control systems based on time series.
+- Development of machine learning models for churn prediction and automated candidate evaluation in recruitment processes.
 
 **Data Analyst Ssr @ Puente Hermanos (Nov 2023 - Apr 2024)**
 
-- Database management, ETL processes. (SQL Server, Python).
-- Creation and editing of data visualization dashboards. Data Analysis. (Power BI, Python + Pandas + Visualization Libraries).
+- Implementation of ETL processes integrating information from data warehouses, APIs, and other sources.
+- Development of dashboards for data visualization and KPIs.
+- Data analysis and insight generation for strategic decision-making.
 
 **Data Science Tutor @ Coderhouse (Aug 2023 - Present)**
 
-- Correction of data science projects.
-- teaching classes via zoom.
-- Answer questions from students outside and inside the class.
+- Mentoring and technical review of practical projects in data science. Class instruction and assistance in machine learning, Python, and data analysis.
 
-**Data Analytics and Data Science Consultant @ TIBEST Insurance Advisors (Feb 2023 - Sept 2023)**
+**Data Analyst & Scientist @ TIBEST Insurance Advisors (Feb 2023 - Sept 2023)**
 
-- Data acquisition
-- ETL processes and automation.
-- Design and presentation of data dashboards.
-- Consulting and decision-making based on data.
+- Data acquisition, ETL processes and automation. 
+- Design, monitoring and presentation of dashboards and KPIs for data-based decision making.
 - Customer segmentation and implementation in marketing campaigns.
 
 **Doctoral researcher @ CONICET (Mar 2020 - Jan 2023)**
@@ -55,6 +53,36 @@ Grade: 9.69
 - Study and research in applications of mathematics and data science.
 
 ## Projects
+
+### [CV Assistant Chatbot](https://huggingface.co/spaces/HernanGalletti/CV_Hernan_Galletti)
+
+#### Project Purpose
+
+This project explores how Retrieval-Augmented Generation (RAG) can be used to build a personal assistant that answers questions about my professional background, education, and skills. It is deployed as a public-facing chatbot on Hugging Face Spaces and uses Gradio for the interface and LangChain to orchestrate the RAG pipeline.
+
+#### Motivation
+
+When applying for jobs or showcasing experience, traditional CVs often lack interactivity or contextual depth. The idea behind this chatbot is to offer a more engaging and exploratory way for others—recruiters, collaborators, or anyone interested—to learn about my work, studies, and career path.
+
+#### Technical Overview
+
+The system uses LangChain to implement a RAG pipeline, combining:
+
+- A local document set enriched with resume information, career history, and goals  
+- Chunking and embedding of these documents into a vector database (Chroma)  
+- A language model (OpenAI or Hugging Face-hosted) that receives both the user query and the most relevant retrieved context  
+
+It responds in English or Spanish depending on the user query and avoids hallucinations by grounding all answers in the embedded profile documents. The chatbot includes custom system prompts to ensure tone, accuracy, and appropriate persona (never pretending to be me, only describing my background).
+
+#### Deployment Features
+
+- Hosted on Hugging Face Spaces (free tier)  
+- Interactive Gradio interface with multilingual support  
+- Session-based logging of user queries and responses (stored anonymously)  
+- Google Sheets integration for usage tracking  
+- Switchable prompt and document contexts in both English and Spanish  
+
+[Project Link](https://huggingface.co/spaces/HernanGalletti/CV_Hernan_Galletti)
 
 ### [Electoral Assistant](https://github.com/HGalletti/Asistente_electoral)
 
