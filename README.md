@@ -54,6 +54,35 @@ Grade: 9.69
 
 ## Projects
 
+### [Forecasting Interest Rate Spreads](https://github.com/HGalletti/Forecasting-Spread-Treasury-Bonds.git)
+
+#### Project Purpose
+
+This project focuses on the advanced analysis and forecasting of the **2Y-10Y interest rate differential** (spread), a critical macroeconomic indicator. The primary objective is to develop robust time series models to predict the future movements of this spread. A key aspect of this project involves strategically integrating other significant financial indicators, such as the VIX volatility index and the S&P 500 index, as exogenous variables to enhance the predictive accuracy and contextual relevance of the spread forecasts. This demonstrates proficiency in applying sophisticated statistical methodologies to real-world financial data.
+
+#### Motivation
+
+The 2Y-10Y interest rate spread is widely regarded as a leading indicator for economic cycles, recession probabilities, and market sentiment. Understanding and accurately forecasting its behavior is invaluable for investors, policymakers, and financial analysts. This project was motivated by the challenge of capturing the complex dynamics of this spread and exploring how its relationship with other major market indices can be leveraged for improved forecasting, highlighting a deep understanding of financial time series.
+
+#### Technical Overview
+
+The methodology employed in this project follows a comprehensive time series analysis pipeline:
+
+-   **Exploratory Data Analysis (EDA):** Initial visualization and statistical analysis of the 2Y-10Y spread, VIX, and S&P 500 series to identify trends, seasonality, and volatility patterns. Cross-correlation analysis was performed to understand inter-dependencies.
+-   **Data Preparation:** Handled missing values, applied necessary transformations (e.g., logarithmic) to stabilize variance, and performed stationarity tests (e.g., Augmented Dickey-Fuller) with appropriate differencing to prepare the data for modeling.
+-   **Classic Time Series Modeling:** Implemented and optimized **ARIMA** (AutoRegressive Integrated Moving Average) and **SARIMA** (Seasonal ARIMA) models for the spread. Crucially, **SARIMAX** (Seasonal ARIMA with Exogenous Regressors) models were developed for the spread, incorporating the VIX and S&P 500 as exogenous variables to capture their influence.
+-   **Model Validation and Evaluation:** Models were rigorously validated using train-test splits, and performance was assessed using standard metrics such as RMSE, MAE, and MAPE. Residual analysis was conducted to check model assumptions and identify areas for further improvement.
+
+The project primarily utilizes Python with key libraries including `Pandas` and `NumPy` for data manipulation, `Matplotlib` and `Seaborn` for visualization, and `Statsmodels` for advanced time series modeling (ARIMA, SARIMA, SARIMAX).
+
+#### Key Results
+
+-   Successfully identified and addressed non-stationarity in the financial time series through appropriate differencing.
+-   Developed **SARIMAX models** that effectively integrated the VIX and S&P 500 as exogenous variables, demonstrating improved predictive capabilities for the 2Y-10Y interest rate spread compared to univariate models.
+-   The analysis of model residuals highlighted inherent complexities in financial data, such as heavy tails and heteroscedasticity, suggesting avenues for future exploration with more advanced modeling techniques.
+
+[Project Link](https://github.com/HGalletti/Forecasting-Spread-Treasury-Bonds.git)
+
 ### [CV Assistant Chatbot](https://huggingface.co/spaces/HernanGalletti/CV_Hernan_Galletti)
 
 #### Project Purpose
