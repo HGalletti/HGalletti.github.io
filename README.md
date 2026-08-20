@@ -16,7 +16,7 @@ Python, SQL, R, Pandas, NumPy, Scikit-learn, LightGBM, PyTorch, TensorFlow, BigQ
 Thesis: Energy demand forecasting for electric utilities, comparing deep learning architectures with classical statistical time-series models.
 
 ### University of Buenos Aires — CONICET
-**Ph.D. studies in Mathematical Sciences, Mar 2020 – Feb 2023**
+**Ph.D. studies in Mathematical Sciences — Mar 2020 – Feb 2023**
 
 Program not completed.
 
@@ -51,6 +51,18 @@ GPA: 9.69/10
 **Mar 2023 – Sep 2024**
 
 - Developed supervised learning, time-series, and predictive models for classification, churn prediction, and other applied business problems.
+
+### Data Analyst Ssr @ Puente Hermanos
+**Nov 2023 – Apr 2024**
+
+- Developed ETL processes integrating data from data warehouses, APIs, and other sources.
+- Built dashboards and analyses to support KPI monitoring and business decision-making.
+
+### Data Analyst & Scientist @ TIBEST Insurance Advisors
+**Feb 2023 – Sep 2023**
+
+- Developed data acquisition, ETL, and automation processes.
+- Built customer segmentation analyses and dashboards to support marketing and business decisions.
 
 ## Selected Projects
 
